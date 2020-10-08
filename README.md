@@ -6,11 +6,11 @@ Splits occur when timer reaches zero after boss fight therefore you will have a 
 1. Right click LiveSplit > Edit Split... > Click the plus sign > Control > Scriptable Auto Splitter <br />
 1. Double-click new component and Browser to .asl file path. <br />
 #### Example Splits <br />
-* ###### Act 1
-* ###### Act 2
-* ###### Act 3
-* ###### Act 4
-* ###### Act 5
-* ###### Act 6
-* ###### Jaquio
-* ###### Demon
+* <span style="font-size: 10pt">Act 1</span>
+* <span style="font-size: 10pt">Act 2</span>
+* <span style="font-size: 10pt">Act 3</span>
+* <span style="font-size: 10pt">Act 4</span>
+* <span style="font-size: 10pt">Act 5</span>
+* <span style="font-size: 10pt">Act 6</span>
+* <span style="font-size: 10pt">Jaquio</span>
+* <span style="font-size: 10pt">Demon</span>
